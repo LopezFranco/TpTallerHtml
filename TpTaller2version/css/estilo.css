@@ -1,0 +1,38 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Times New Roman', sans-serif;
+	color: #Red;
+	background: linear-gradient(rgba(100,100,65,.9),rgba(80,80,20,.10)), url(../img/cloudVsSefirot.jpg);
+	height: 100vh;
+	background-size: cover;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+.contenedor {
+	max-width: 1280px;
+	width: 90%;
+	margin: auto;
+}
+
+
+h1 {
+	font-size: 70fpx;
+	color: Blue;
+	margin: 0;
+}
+
+h2 {
+	font-size: 25px;
+	color: #F0D;
+}
+
+.contenedor-titulo {
+	text-align: center;
+}
+
+

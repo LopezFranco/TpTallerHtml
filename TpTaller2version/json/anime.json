@@ -1,0 +1,9 @@
+{
+    "anime":[
+        {"nombre": "Digimon", "descripcion": "Aguante el cactus boxeador", "img": "../img/fondo.jpg"},
+        {"nombre": "Final Fantasy 7", "descripcion": "La peli bien polenta", "img": "../img/ff7.jpg"},
+        {"nombre": "DragonBall", "descripcion": "Es infancia vieja!!", "img":"../img/dbz.jpg"},
+        {"nombre": "digimonpart2", "descripcion": "Esta bueno", "img": "../img/fondo2.jpg"},
+        {"nombre": "OnePiece", "descripcion": "Aguante Barbablanca", "img": "../img/shirohige.jpg"}
+     ]
+}
